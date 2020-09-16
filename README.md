@@ -1,2 +1,1 @@
-# akramjon12.github.io
-Akramjon Abdurakhimov
+https://akramjon12.github.io/
